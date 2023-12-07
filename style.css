@@ -1,0 +1,59 @@
+body{
+    background-color: #F2FFE9;
+    font-family: Javanese Text;
+}
+
+header{
+    background-image: url("https://i.pinimg.com/originals/20/de/89/20de8953a3d8ba249123c47903d19f3c.jpg");
+border: 5px solid rgb(30, 30, 56);
+}
+
+h1{
+font-family: Stencil;
+text-align: center;
+font-size: 50px;
+}
+
+h2{
+background-color: #61A3BA;
+border-right:  10px solid rgb(30, 30, 56);
+border-bottom:  2px solid rgb(30, 30, 56);
+border-top:  2px solid rgb(30, 30, 56);
+font-weight: 700;
+}
+
+img{
+height: 120px;
+width: 180px;
+margin:25px;
+padding: 2px;
+border:  3px solid rgb(30, 30, 56);
+}
+
+.f{
+height: 170px;
+}
+
+footer p{
+font-family: MV Boli;
+font-weight: 700;
+}
+
+footer{
+background-color: rgb(203, 231, 175);
+border: 3px solid rgb(100, 156, 99)
+}
+
+a{
+text-decoration: none;
+color: rgb(8, 8, 64);
+font-weight: 700;
+margin: 5px;
+padding: 10px;
+border-radius:1px solid black;
+}
+
+.yu{
+background-color: #C7E9B0;
+border: 2px solid #445D48;
+}
